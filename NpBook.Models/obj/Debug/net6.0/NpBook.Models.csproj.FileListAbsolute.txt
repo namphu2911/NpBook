@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\NpBook\NpBook.Models\bin\Debug\net6.0\NpBook.Models.deps.json
+C:\Users\DELL\source\repos\NpBook\NpBook.Models\bin\Debug\net6.0\NpBook.Models.dll
+C:\Users\DELL\source\repos\NpBook\NpBook.Models\bin\Debug\net6.0\NpBook.Models.pdb
+C:\Users\DELL\source\repos\NpBook\NpBook.Models\obj\Debug\net6.0\NpBook.Models.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\NpBook\NpBook.Models\obj\Debug\net6.0\NpBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\NpBook\NpBook.Models\obj\Debug\net6.0\NpBook.Models.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\NpBook\NpBook.Models\obj\Debug\net6.0\NpBook.Models.AssemblyInfo.cs
+C:\Users\DELL\source\repos\NpBook\NpBook.Models\obj\Debug\net6.0\NpBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\NpBook\NpBook.Models\obj\Debug\net6.0\NpBook.Models.dll
+C:\Users\DELL\source\repos\NpBook\NpBook.Models\obj\Debug\net6.0\refint\NpBook.Models.dll
+C:\Users\DELL\source\repos\NpBook\NpBook.Models\obj\Debug\net6.0\NpBook.Models.pdb
+C:\Users\DELL\source\repos\NpBook\NpBook.Models\obj\Debug\net6.0\ref\NpBook.Models.dll

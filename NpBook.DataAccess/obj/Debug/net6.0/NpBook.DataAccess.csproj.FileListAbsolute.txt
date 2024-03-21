@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\obj\Debug\net6.0\NpBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\obj\Debug\net6.0\NpBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\obj\Debug\net6.0\NpBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\obj\Debug\net6.0\NpBook.DataAccess.AssemblyInfo.cs
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\obj\Debug\net6.0\NpBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\bin\Debug\net6.0\NpBook.DataAccess.deps.json
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\bin\Debug\net6.0\NpBook.DataAccess.dll
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\bin\Debug\net6.0\NpBook.DataAccess.pdb
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\bin\Debug\net6.0\NpBook.Models.dll
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\bin\Debug\net6.0\NpBook.Models.pdb
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\obj\Debug\net6.0\NpBook.DataAccess.csproj.CopyComplete
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\obj\Debug\net6.0\NpBook.DataAccess.dll
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\obj\Debug\net6.0\refint\NpBook.DataAccess.dll
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\obj\Debug\net6.0\NpBook.DataAccess.pdb
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\obj\Debug\net6.0\ref\NpBook.DataAccess.dll
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\bin\Debug\net6.0\NpBook.DataAccess.runtimeconfig.json
+C:\Users\DELL\source\repos\NpBook\NpBook.DataAccess\obj\Debug\net6.0\NpBook.DataAccess.genruntimeconfig.cache
